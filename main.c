@@ -67,7 +67,10 @@ int main(void)
         if (!IO_PA1_get_level()){
 			while (1){
 				while (!IO_PA1_get_level()) {
-					roll = 1 + rand() % num_sides;
+                    /* doing this with random() instead of rand() is much more
+                     * accurate, not worth it to use a better algorithm to get
+                     * the absolutely correct distribution */
+                    roll = 1 + random() % num_sides;
 					show_num(roll);
 					_delay_ms(10);
 				}
