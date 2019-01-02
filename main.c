@@ -80,6 +80,11 @@ int main(void)
         ADC0.COMMAND = 1; // start ADC conversion
         while (ADC0.COMMAND); // wait until done
         num_sides = ADC0.RESL / 4;
+        
+        /* A die with 0 or 1 side is useless, so use these values to make
+         * it easier to select the common values 2 and 6 */
+        if (num_sides < 6) {num_sides++;}
+        if (num_sides < 2) {num_sides++;}
         show_num(num_sides);
         _delay_ms(20);
     }
