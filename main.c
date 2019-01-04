@@ -38,8 +38,6 @@
 // from "-Tdata 0x803800" to "	-Tdata 0x802000"
 // this prevents a linker error for static or global variables.
 // But I'm very uncertain if this is actually correct.
-// I also set the fuses BOOTEND to 4 and APPEND to 8, not sure if necessary and weird if it is...
-// Could cause problems if the code were longer maybe??
 
 #define bit_get(p,m) ((p) & (m))
 #define bit_set(p,m) ((p) |= (m))
