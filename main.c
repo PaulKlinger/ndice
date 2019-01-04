@@ -27,6 +27,12 @@
 #include <util/delay.h>
 #include <avr/io.h>
 
+// Note: When generating configuration from MCC sometimes the pullup for PA1
+// will not be enabled even though it is set correctly in MCC. Check 
+// mcc_generated_files/src/pin_manager.c and either change manually or run
+// generate again.
+
+
 // WARNING!!! I changed "*link_data_start" in
 //E:\Program Files (x86)\Microchip\MPLABX\v5.10\packs\Atmel\ATtiny_DFP\1.3.238\gcc\dev\attiny1614\device-specs\specs-attiny1614
 // from "-Tdata 0x803800" to "	-Tdata 0x802000"
