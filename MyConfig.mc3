@@ -9,12 +9,12 @@
          <string>class com.microchip.mcc.mcu8.interruptManager.cpuint.CPUINT</string>
       </entry>
       <entry>
-         <string>WDT</string>
-         <string>class com.microchip.mcc.mcu8.systemManager.wdt.WDT</string>
-      </entry>
-      <entry>
          <string>BOD</string>
          <string>class com.microchip.mcc.mcu8.systemManager.bod.BOD</string>
+      </entry>
+      <entry>
+         <string>WDT</string>
+         <string>class com.microchip.mcc.mcu8.systemManager.wdt.WDT</string>
       </entry>
       <entry>
          <string>Pin Module</string>
@@ -33,12 +33,12 @@
          <string>class com.microchip.mcc.mcu8.modules.adc.init.ADC</string>
       </entry>
       <entry>
-         <string>CLKCTRL</string>
-         <string>class com.microchip.mcc.mcu8.systemManager.clkctrl.CLKCTRL</string>
-      </entry>
-      <entry>
          <string>Interrupt Manager</string>
          <string>class com.microchip.mcc.mcu8.interruptManager.InterruptManager</string>
+      </entry>
+      <entry>
+         <string>CLKCTRL</string>
+         <string>class com.microchip.mcc.mcu8.systemManager.clkctrl.CLKCTRL</string>
       </entry>
    </usedClasses>
    <usedLibraries class="java.util.ArrayList">
@@ -2147,7 +2147,7 @@
       </entry>
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.RegisterKey" moduleName="System Module" registerAlias="BOOTEND"/>
-         <value>8</value>
+         <value>0</value>
       </entry>
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.SettingKey" moduleName="System Module" registerAlias="TCD0CFG" settingAlias="CMPCEN"/>
@@ -2659,7 +2659,7 @@
       </entry>
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.RegisterKey" moduleName="System Module" registerAlias="APPEND"/>
-         <value>4</value>
+         <value>0</value>
       </entry>
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.OptionKey" moduleName="WDT" registerAlias="STATUS" settingAlias="SYNCBUSY" alias="enabled"/>
@@ -3633,7 +3633,7 @@
       </entry>
       <entry>
          <file>mcc_generated_files\mcc.h</file>
-         <hash>6e943ec959bb962a77ab06821870e4c6de22cbd7175e44b59dd4d79eee080bac</hash>
+         <hash>d4a65139c77a2d828510d3d89215351ae7bb2569bcebd9ff78792b10c477b0d9</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\src\adc0.c</file>
@@ -3645,7 +3645,7 @@
       </entry>
       <entry>
          <file>mcc_generated_files\device_config.c</file>
-         <hash>16dc9470244a3d0ed8942170e8d10638a69cf69f4bccfa8d36dbd92407456cbb</hash>
+         <hash>22a4748352a7ca53cf3c8083f7d8c392a61fdf487431f896d4c9e60c39a5582c</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\utils\utils.h</file>
@@ -3656,12 +3656,12 @@
          <hash>bad3c92e7e6c93326858e1d1cb04ef348588cb0db8a2db9b22a3842975f72ebf</hash>
       </entry>
       <entry>
-         <file>mcc_generated_files\include\wdt.h</file>
-         <hash>b8c1e6e8f5def1e6b7f175e8fcb1b40472c61754395b181f4a2dcef5b94c2062</hash>
-      </entry>
-      <entry>
          <file>mcc_generated_files\src\clkctrl.c</file>
          <hash>0d551a4bb4a0c1984e0ec76c9acddb6f7a642406e887c97af51c03731cfd1dd1</hash>
+      </entry>
+      <entry>
+         <file>mcc_generated_files\include\wdt.h</file>
+         <hash>b8c1e6e8f5def1e6b7f175e8fcb1b40472c61754395b181f4a2dcef5b94c2062</hash>
       </entry>
       <entry>
          <file>mcc_generated_files\utils\assembler.h</file>

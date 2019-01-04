@@ -34,8 +34,8 @@ extern "C" {
 #include "include/clkctrl.h"
 #include "include/slpctrl.h"
 #include "include/cpuint.h"
-#include "include/wdt.h"
 #include "include/bod.h"
+#include "include/wdt.h"
 #include "include/adc0.h"
 
 /**

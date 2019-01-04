@@ -28,7 +28,7 @@ build/default/production/mcc_generated_files/driver_isr.o.d \
  mcc_generated_files/include/slpctrl.h \
  mcc_generated_files/include/cpuint.h \
  mcc_generated_files/include/../utils/atomic.h \
- mcc_generated_files/include/wdt.h mcc_generated_files/include/bod.h \
+ mcc_generated_files/include/bod.h mcc_generated_files/include/wdt.h \
  mcc_generated_files/include/adc0.h \
  mcc_generated_files/./utils/compiler.h
 
@@ -92,9 +92,9 @@ mcc_generated_files/include/cpuint.h:
 
 mcc_generated_files/include/../utils/atomic.h:
 
-mcc_generated_files/include/wdt.h:
-
 mcc_generated_files/include/bod.h:
+
+mcc_generated_files/include/wdt.h:
 
 mcc_generated_files/include/adc0.h:
 

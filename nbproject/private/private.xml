@@ -4,16 +4,18 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/mcc_generated_files/mcc.c</file>
-            <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/mcc_generated_files/include/clkctrl.h</file>
             <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/mcc_generated_files/src/system.c</file>
+            <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/mcc_generated_files/utils/compiler.h</file>
+            <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/mcc_generated_files/include/system.h</file>
+            <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/nbproject/Makefile-local-default.mk</file>
+            <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/mcc_generated_files/mcc.h</file>
+            <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/nbproject/Makefile-default.mk</file>
+            <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/mcc_generated_files/include/clkctrl.h</file>
             <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/mcc_generated_files/src/cpuint.c</file>
             <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/mcc_generated_files/src/bod.c</file>
             <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/main.c</file>
-            <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/mcc_generated_files/utils/compiler.h</file>
             <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/mcc_generated_files/src/pin_manager.c</file>
-            <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/mcc_generated_files/include/system.h</file>
-            <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/mcc_generated_files/include/pin_manager.h</file>
-            <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/mcc_generated_files/mcc.h</file>
+            <file>file:/E:/klinger.paul@gmail.com/hardware/ndice/attiny1614_code/nbproject/configurations.xml</file>
         </group>
     </open-files>
 </project-private>
