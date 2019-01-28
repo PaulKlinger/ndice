@@ -1,0 +1,7 @@
+Manufacturer Part Number,Description,Quantity
+ATTINY1614-SSFR,MCU,1
+K2-1112SA-A4SW-01,smd side switch,2
+,0805 10K smd resistor,6
+,0805 10uf smd ceramic cap,1
+,0805 yellow smd LED,6
+RV09 B100K B104,100K potentiometer 12.5mm through hole,1
