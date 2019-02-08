@@ -11,9 +11,9 @@ Some hints for anyone trying to build these:
 
 - The holes over the LEDs in the top cover are filled with some 2mm PMMA fiber optic cable. I bought it [here](https://www.aliexpress.com/item/5mX-Transparent-side-glow-plastic-PMMA-fiber-optic-cable-solid-core-optic-cable-diameter-2mm-3mm/32807597828.html). This kind of fiber is not optimal for this because it glows from the side (which I needed for [this project](https://github.com/PaulKlinger/kerr_geodesic_sculpture)), but most of the light still comes out the end. Getting the fiber into the holes can be kind of tricky, depending on the precise over-/underextrusion of your 3D printer & filament (for me it was a lot easier with the blue than the black ones). I cut the tip of the fiber to a point, push it firmly through so a bit sticks out the other side, and then use pliers to pull it all the way through. Then I cut it flush using some flush cutters. The pliers and cutters invariable leave some scratches so I have to polish the top...
 
-- To get the (3D printed) cap on the potentiometer you need to cut off the top of the knob. The ones mentioned in the BOM have a pretty soft plastic knob, so that's pretty easy. The cap should be a friction fit.
+- To get the (3D printed) cap on the potentiometer you need to cut off the top of the knob. The ones mentioned in the BOM have a relatively soft plastic knob, so that's pretty easy. The cap should be a friction fit.
 
-- The battery holder is soldered to the bottom, so that the MCU sits between the bottom of the battery holder and the PCB (the pins on the should be long enough to still reach through the PCB). Make sure that the battery holder is parallel to the PCB.
+- The battery holder is soldered to the bottom, so that the MCU sits between the bottom of the battery holder and the PCB (the pins should be long enough to still reach through the PCB). Make sure that the battery holder is parallel to the PCB.
 
 - The 3D printed spacers go between the battery holder and the PCB. I glued them to the PCB with superglue. They are mostly there to hide the gap and don't really provide mechanical support.
 
