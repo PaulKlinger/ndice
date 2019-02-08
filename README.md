@@ -33,3 +33,5 @@ I bought all the components except the [ATtiny1614 microcontroller](https://octo
 (everything including shipping to Austria)
 
 That's < $0.9 / unit for everything except the microcontroller when building 10 units, and < $1.55 / unit total. (And you have a lot of components left over after building 10, like 80 switches, 40 LEDs, 90 capacitors,...)
+
+If the links above don't work, or you want to buy from more reputable suppliers, check the [octopart bom](pcb/octopart_bom.md).
