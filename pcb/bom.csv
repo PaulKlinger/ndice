@@ -1,7 +1,7 @@
-Manufacturer Part Number,Description,Quantity
-ATTINY1614-SSFR,MCU,1
-K2-1112SA-A4SW-01,smd side switch,2
-,0805 10K smd resistor,6
-,0805 10uf smd ceramic cap,1
-,0805 yellow smd LED,6
-RV09 B100K B104,100K potentiometer 12.5mm through hole,1
+Manufacturer Part Number,Description,Quantity,Purchase Link (example)
+ATTINY1614-SSFR,MCU,1,
+K2-1112SA-A4SW-01,smd side switch,2,https://www.aliexpress.com/item/50pcs-3-6mm-SMD-light-touch-switch-2-pin-side-button-Micro-switch-button-switches-3mm/32311331185.html
+,0805 10K smd resistor,6,
+,0805 10uf smd ceramic cap,1,
+,0805 yellow smd LED,6,
+RV09 B100K B104,100K potentiometer 12.5mm through hole,1,https://www.aliexpress.com/item/10pcs-x-RV09-vertical-12-5mm-Shaft-5K-10K-50K-100K-0932-Adjustable-Resistor-9-type/32897258726.html
