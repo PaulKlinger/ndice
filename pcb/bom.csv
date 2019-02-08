@@ -1,8 +1,8 @@
 Manufacturer Part Number,Description,Quantity,Purchase Link (example)
-ATTINY1614-SSFR,MCU,1,
+ATTINY1614-SSFR,MCU,1,https://octopart.com/attiny1614-ssfr-microchip-82181131
 K2-1112SA-A4SW-01,smd side switch,2,https://www.aliexpress.com/item/50pcs-3-6mm-SMD-light-touch-switch-2-pin-side-button-Micro-switch-button-switches-3mm/32311331185.html
-,0805 10K smd resistor,6,
-,0805 10uf smd ceramic cap,1,
-,0805 yellow smd LED,6,
+,0805 10K smd resistor,6,https://www.aliexpress.com/item/100Pcs-0805-SMD-1-4W-0R-10M-chip-resistor-0-10R-100R-220R-330R-470R-1K/32858225842.html
+,0805 10uf smd ceramic cap,1,https://www.aliexpress.com/item/100pcs-3-3PF-47UF-0805-SMD-100V-X7R-10-100nf-0-1uf-104K-104-22UF-4/32882102243.html
+,0805 yellow smd LED,6,https://www.aliexpress.com/item/Free-Ship-100PCS-0805-light-emitting-diode-SMD-LED-bead-Red-Yellow-Green-White-Blue-Orange/32871959868.html
 RV09 B100K B104,100K potentiometer 12.5mm through hole,1,https://www.aliexpress.com/item/10pcs-x-RV09-vertical-12-5mm-Shaft-5K-10K-50K-100K-0932-Adjustable-Resistor-9-type/32897258726.html
 ,CR2032 battery holder,1,https://www.aliexpress.com/item/10PCS-Battery-Button-Cell-Holder-Socket-Case-CR2032-battery-holder-2032/32819924096.html
